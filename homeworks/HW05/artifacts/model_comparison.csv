@@ -1,0 +1,3 @@
+Model,Accuracy,ROC-AUC
+FiktivClassifier,0.59,0.5
+LogisticRegression,0.8,0.8756143493638325
