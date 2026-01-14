@@ -1,0 +1,22 @@
+{
+    "DummyClassifier": {
+        "accuracy": 0.5426666666666666,
+        "f1_macro": 0.2345145491212907
+    },
+    "LogisticRegression": {
+        "accuracy": 0.7236666666666667,
+        "f1_macro": 0.6651282116538167
+    },
+    "DecisionTree": {
+        "accuracy": 0.7973333333333333,
+        "f1_macro": 0.7506317631407824
+    },
+    "RandomForest": {
+        "accuracy": 0.886,
+        "f1_macro": 0.8598667922339419
+    },
+    "GradientBoosting": {
+        "accuracy": 0.881,
+        "f1_macro": 0.8505582804571189
+    }
+}
