@@ -1,0 +1,7 @@
+experiment_id,task,dataset,seed,model_summary,optimizer,lr,epochs_trained,best_val_accuracy,test_accuracy,precision,recall,mean_iou,notes
+C1,classification,STL10,42,SimpleCNN,Adam,0.001,10,0.566,,,,,
+C2,classification,STL10,42,SimpleCNN,Adam,0.001,10,0.588,,,,,
+C3,classification,STL10,42,ResNet18 head-only,Adam,0.001,10,0.947,,,,,
+C4,classification,STL10,42,ResNet18 finetune,Adam,0.0001,10,0.952,0.414625,,,,
+V1,segmentation,OxfordIIITPet,42,DeepLabV3_ResNet50,-,-,-,,,,,0.39401702880859374,base
+V2,segmentation,OxfordIIITPet,42,DeepLabV3_ResNet50,-,-,-,,,,,0.3931419372558594,clean small components
