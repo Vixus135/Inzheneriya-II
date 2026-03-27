@@ -1,0 +1,5 @@
+experiment_id,task,dataset,seed,split_summary,window_size,horizon,model_summary,features_summary,scaler,optimizer,lr,epochs_trained,best_val_mae,best_val_rmse,best_val_mape,test_mae,test_rmse,test_mape,notes
+B1,forecasting,S12-hw-dataset.csv,42,temporal 70/15/15,,1,naive-last,last value,,,,,20.3400925925926,24.36432498121226,12.856043527857972,20.49266975308642,24.61355752513663,12.544333339851473,
+B2,forecasting,S12-hw-dataset.csv,42,temporal 70/15/15,,1,moving-average window=24,moving average of target,,,,,14.266139403292179,17.257999544464848,9.829841803114542,14.075165895061726,17.354652833770828,9.509377044345966,
+B3,forecasting,S12-hw-dataset.csv,42,temporal 70/15/15,,1,Ridge,"lag_1, lag_7, lag_14, rolling_mean_7, rolling_std_7, hour, dayofweek",StandardScaler on train,,,,6.360190695449103,7.886870745106798,4.2820346731064625,6.274381246749118,7.98442231678388,4.043227265372815,
+R1,forecasting,S12-hw-dataset.csv,42,temporal 70/15/15,24,1,"GRUForecast(hidden_size=32, num_layers=1)",raw target windows,,Adam,0.001,30,0.3273621201515198,0.4222816520705377,132.08572387695312,7.455414295196533,9.540540825890757,4.75900936126709,
