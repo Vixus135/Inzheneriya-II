@@ -1,0 +1,26 @@
+event_id,product_id,event_type,quantity_change,new_stock_level,event_date,notes
+INV_00000001,PRD_00009912,sale_deduction,-3,125,2023-12-04 08:58:59,Customer order fulfilled
+INV_00000002,PRD_00009717,sale_deduction,-5,189,2024-12-25 03:21:06,Customer order fulfilled
+INV_00000003,PRD_00003161,sale_deduction,-5,133,2024-11-01 07:55:11,Customer order fulfilled
+INV_00000004,PRD_00009284,sale_deduction,-1,173,2023-01-16 09:19:42,Customer order fulfilled
+INV_00000005,PRD_00000909,sale_deduction,-4,85,2023-07-25 11:58:03,Customer order fulfilled
+INV_00000006,PRD_00000955,sale_deduction,-1,27,2023-05-20 12:29:07,Customer order fulfilled
+INV_00000007,PRD_00004089,sale_deduction,-4,44,2023-02-03 12:53:45,Customer order fulfilled
+INV_00000008,PRD_00001554,restock,170,428,2024-07-04 12:16:11,Emergency restock due to high demand
+INV_00000009,PRD_00003129,restock,97,218,2024-08-18 12:46:27,Warehouse transfer in
+INV_00000010,PRD_00001062,adjustment,-4,170,2024-07-02 06:07:52,Stock count correction
+INV_00000011,PRD_00000062,sale_deduction,-2,142,2024-05-19 07:50:43,Customer order fulfilled
+INV_00000012,PRD_00001249,sale_deduction,-5,57,2024-05-31 23:47:13,Customer order fulfilled
+INV_00000013,PRD_00009226,restock,186,384,2023-08-15 09:33:52,Supplier delivery received
+INV_00000014,PRD_00000710,sale_deduction,-1,134,2025-06-08 06:06:38,Customer order fulfilled
+INV_00000015,PRD_00009596,adjustment,4,37,2024-10-11 16:20:48,System reconciliation
+INV_00000016,PRD_00001209,adjustment,1,88,2025-10-02 05:14:39,Shrinkage adjustment
+INV_00000017,PRD_00005150,sale_deduction,-1,81,2024-12-20 17:42:26,Customer order fulfilled
+INV_00000018,PRD_00003540,restock,61,103,2024-10-31 19:23:25,Bulk import - quarterly stock review
+INV_00000019,PRD_00009107,restock,116,144,2025-05-20 05:30:40,Bulk import - quarterly stock review
+INV_00000020,PRD_00005537,restock,275,341,2024-12-19 21:23:21,Warehouse transfer in
+INV_00000021,PRD_00001847,adjustment,8,8,2024-07-23 14:21:49,Damaged units written off
+INV_00000022,PRD_00008415,adjustment,10,373,2025-12-20 02:48:46,System reconciliation
+INV_00000023,PRD_00000076,restock,125,161,2023-10-29 01:37:06,Return to stock - quality check passed
+INV_00000024,PRD_00002201,sale_deduction,-2,135,2025-01-04 09:07:43,Customer order fulfilled
+INV_00000025,PRD_00009641,sale_deduction,-1,0,2024-11-05 04:14:12,Customer order fulfilled

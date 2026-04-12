@@ -1,0 +1,36 @@
+question,answer,retrieved_sources
+Do you have any yoga mats?,"Relevant products:
+- PRD_00000024: product_id: PRD_00000024. Name: TrailRoot Yoga Mat XL. Category: Sports / Fitness. Brand: TrailRoot. Price: 46.63.
+- PRD_00000001: product_id: PRD_00000001. Name: IronPath Pull-Up Bar. Category: Sports / Fitness. Brand: IronPath. Price: 148.2.
+- PRD_00000003: product_id: PRD_00000003. Name: Auraloop Over-Ear Headphones. Category: Electronics / Headphones. Brand: Auraloop. Price: 217.62.
+- PRD_00000002: product_id: PRD_00000002. Name: NexLink Smart Doorbell. Category: Electronics / Smart Home. Brand: NexLink. Price: 151.56.
+- PRD_00000005: product_id: PRD_00000005. Name: Voltix Over-Ear Headphones Lite. Category: Electronics / Headphones. Brand: Voltix. Price: 210.37.
+","PRD_00000024,PRD_00000001,PRD_00000003,PRD_00000002,PRD_00000005"
+What over-ear headphones are available?,"Relevant products:
+- PRD_00000003: product_id: PRD_00000003. Name: Auraloop Over-Ear Headphones. Category: Electronics / Headphones. Brand: Auraloop. Price: 217.62.
+- PRD_00000005: product_id: PRD_00000005. Name: Voltix Over-Ear Headphones Lite. Category: Electronics / Headphones. Brand: Voltix. Price: 210.37.
+- PRD_00000011: product_id: PRD_00000011. Name: SoundMint Over-Ear Headphones Pro. Category: Electronics / Headphones. Brand: SoundMint. Price: 212.65.
+- PRD_00000002: product_id: PRD_00000002. Name: NexLink Smart Doorbell. Category: Electronics / Smart Home. Brand: NexLink. Price: 151.56.
+- PRD_00000004: product_id: PRD_00000004. Name: Elm Works Throw Blanket. Category: Home / Decor. Brand: Elm Works. Price: 70.15.
+","PRD_00000003,PRD_00000005,PRD_00000011,PRD_00000002,PRD_00000004"
+Is there a camping lantern?,"Relevant products:
+- PRD_00000023: product_id: PRD_00000023. Name: NordTrek Camping Lantern. Category: Sports / Outdoor. Brand: NordTrek. Price: 218.4.
+- PRD_00000020: product_id: PRD_00000020. Name: WildPath Camping Lantern. Category: Sports / Outdoor. Brand: WildPath. Price: 169.49.
+- PRD_00000001: product_id: PRD_00000001. Name: IronPath Pull-Up Bar. Category: Sports / Fitness. Brand: IronPath. Price: 148.2.
+- PRD_00000002: product_id: PRD_00000002. Name: NexLink Smart Doorbell. Category: Electronics / Smart Home. Brand: NexLink. Price: 151.56.
+- PRD_00000005: product_id: PRD_00000005. Name: Voltix Over-Ear Headphones Lite. Category: Electronics / Headphones. Brand: Voltix. Price: 210.37.
+","PRD_00000023,PRD_00000020,PRD_00000001,PRD_00000002,PRD_00000005"
+Any women's dresses?,"Relevant products:
+- PRD_00000009: product_id: PRD_00000009. Name: Fern & Finch Midi Dress. Category: Fashion / Women's Apparel. Brand: Fern & Finch. Price: 133.77.
+- PRD_00000010: product_id: PRD_00000010. Name: Fern & Finch Straight Leg Jeans. Category: Fashion / Women's Apparel. Brand: Fern & Finch. Price: 122.57.
+- PRD_00000001: product_id: PRD_00000001. Name: IronPath Pull-Up Bar. Category: Sports / Fitness. Brand: IronPath. Price: 148.2.
+- PRD_00000002: product_id: PRD_00000002. Name: NexLink Smart Doorbell. Category: Electronics / Smart Home. Brand: NexLink. Price: 151.56.
+- PRD_00000005: product_id: PRD_00000005. Name: Voltix Over-Ear Headphones Lite. Category: Electronics / Headphones. Brand: Voltix. Price: 210.37.
+","PRD_00000009,PRD_00000010,PRD_00000001,PRD_00000002,PRD_00000005"
+Do you sell collagen supplements?,"Relevant products:
+- PRD_00000017: product_id: PRD_00000017. Name: VitaCore Collagen Powder. Category: Food & Drink / Supplements. Brand: VitaCore. Price: 49.36.
+- PRD_00000001: product_id: PRD_00000001. Name: IronPath Pull-Up Bar. Category: Sports / Fitness. Brand: IronPath. Price: 148.2.
+- PRD_00000003: product_id: PRD_00000003. Name: Auraloop Over-Ear Headphones. Category: Electronics / Headphones. Brand: Auraloop. Price: 217.62.
+- PRD_00000002: product_id: PRD_00000002. Name: NexLink Smart Doorbell. Category: Electronics / Smart Home. Brand: NexLink. Price: 151.56.
+- PRD_00000005: product_id: PRD_00000005. Name: Voltix Over-Ear Headphones Lite. Category: Electronics / Headphones. Brand: Voltix. Price: 210.37.
+","PRD_00000017,PRD_00000001,PRD_00000003,PRD_00000002,PRD_00000005"
