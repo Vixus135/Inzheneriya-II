@@ -1,0 +1,28 @@
+{
+    "DecisionTree": {
+        "best_params": {
+            "max_depth": null,
+            "min_samples_leaf": 10,
+            "min_samples_split": 2
+        },
+        "best_cv_score_f1_macro": 0.7325329189434047
+    },
+    "RandomForest": {
+        "best_params": {
+            "max_depth": null,
+            "max_features": null,
+            "min_samples_leaf": 1,
+            "n_estimators": 200
+        },
+        "best_cv_score_f1_macro": 0.844807873957811
+    },
+    "GradientBoosting": {
+        "best_params": {
+            "learning_rate": 0.2,
+            "max_depth": 4,
+            "min_samples_leaf": 1,
+            "n_estimators": 200
+        },
+        "best_cv_score_f1_macro": 0.8525962695176126
+    }
+}

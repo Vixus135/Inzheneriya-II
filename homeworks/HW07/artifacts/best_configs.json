@@ -1,0 +1,17 @@
+{
+  "dataset_01": {
+    "best_method": "KMeans",
+    "reason": "stable clusters, better metrics",
+    "k": 5
+  },
+  "dataset_03": {
+    "best_method": "KMeans",
+    "reason": "ARI=1.0 across runs, stable structure",
+    "k": 4
+  },
+  "dataset_04": {
+    "best_method": "KMeans",
+    "reason": "DBSCAN failed on OHE data",
+    "k": 6
+  }
+}

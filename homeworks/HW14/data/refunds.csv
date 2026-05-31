@@ -1,0 +1,26 @@
+refund_id,order_id,refund_date,refund_reason,refund_amount,refund_status
+REF_00000001,ORD_00000033,2024-08-21 02:22:15,item_not_as_described,40.94,approved
+REF_00000002,ORD_00000045,2025-03-19 09:35:34,size_or_fit_issue,50.89,approved
+REF_00000003,ORD_00000052,2024-08-16 01:11:31,late_delivery,29.74,approved
+REF_00000004,ORD_00000058,2025-11-01 06:54:01,damaged_on_arrival,136.93,pending
+REF_00000005,ORD_00000080,2025-03-19 07:10:05,changed_mind,65.01,approved
+REF_00000006,ORD_00000088,2024-10-08 19:37:24,size_or_fit_issue,180.96,approved
+REF_00000007,ORD_00000099,2025-10-11 23:18:05,damaged_on_arrival,318.17,approved
+REF_00000008,ORD_00000102,2023-04-10 13:13:57,size_or_fit_issue,196.74,approved
+REF_00000009,ORD_00000108,2025-02-09 21:20:33,changed_mind,356.58,approved
+REF_00000010,ORD_00000139,2025-12-26 10:37:11,changed_mind,117.71,approved
+REF_00000011,ORD_00000144,2024-11-29 06:52:19,size_or_fit_issue,145.26,approved
+REF_00000012,ORD_00000195,2025-11-20 13:01:41,late_delivery,109.07,pending
+REF_00000013,ORD_00000201,2024-06-16 11:12:28,damaged_on_arrival,18.52,approved
+REF_00000014,ORD_00000242,2025-11-30 04:07:44,changed_mind,54.23,approved
+REF_00000015,ORD_00000276,2025-12-17 09:30:22,size_or_fit_issue,21.38,approved
+REF_00000016,ORD_00000285,2022-12-12 23:13:39,damaged_on_arrival,73.21,approved
+REF_00000017,ORD_00000316,2025-03-02 06:15:45,changed_mind,17.22,approved
+REF_00000018,ORD_00000318,2024-05-23 14:42:19,item_not_as_described,1075.95,approved
+REF_00000019,ORD_00000339,2023-09-17 12:38:25,late_delivery,81.55,approved
+REF_00000020,ORD_00000356,2023-10-02 22:52:43,changed_mind,152.69,approved
+REF_00000021,ORD_00000386,2023-07-18 11:15:34,changed_mind,15.89,approved
+REF_00000022,ORD_00000392,2023-10-25 03:42:32,changed_mind,81.18,approved
+REF_00000023,ORD_00000404,2025-01-09 12:23:39,changed_mind,477.54,approved
+REF_00000024,ORD_00000413,2024-12-13 13:50:34,wrong_item_sent,32.58,approved
+REF_00000025,ORD_00000420,2023-12-15 03:45:55,size_or_fit_issue,121.6,approved

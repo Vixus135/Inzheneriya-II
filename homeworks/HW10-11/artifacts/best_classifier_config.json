@@ -1,0 +1,9 @@
+{
+    "dataset": "STL10",
+    "best_experiment": "C4",
+    "architecture": "ResNet18",
+    "transforms": "C4",
+    "seed": 42,
+    "batch_size": 64,
+    "epochs": 10
+}

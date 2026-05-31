@@ -1,0 +1,26 @@
+product_id,sku,product_name,category,subcategory,brand,price,cost,stock_quantity,active,created_at
+PRD_00000001,SF-00001-77,IronPath Pull-Up Bar,Sports,Fitness,IronPath,148.2,43.91,1855,True,2024-08-16 05:50:22
+PRD_00000002,ESH-00002-77,NexLink Smart Doorbell,Electronics,Smart Home,NexLink,151.56,80.15,1990,True,2023-09-08 10:48:20
+PRD_00000003,EH-00003-68,Auraloop Over-Ear Headphones,Electronics,Headphones,Auraloop,217.62,113.81,2425,True,2023-05-17 19:40:35
+PRD_00000004,HD-00004-93,Elm Works Throw Blanket,Home,Decor,Elm Works,70.15,32.69,1436,True,2024-11-14 10:33:11
+PRD_00000005,EH-00005-19,Voltix Over-Ear Headphones Lite,Electronics,Headphones,Voltix,210.37,135.53,1361,True,2022-10-29 17:19:08
+PRD_00000006,BS-00006-30,Serein Lab SPF50 Sunscreen Lite,Beauty,Skincare,Serein Lab,89.64,31.4,4412,True,2025-08-19 09:41:52
+PRD_00000007,TLT-00007-67,Little Orbit STEM Kit,Toys,Learning Toys,Little Orbit,64.92,21.93,1808,True,2024-05-24 10:26:10
+PRD_00000008,EA-00008-51,NexLink USB-C Charger,Electronics,Accessories,NexLink,14.82,4.67,1019,True,2025-07-15 15:06:50
+PRD_00000009,FWA-00009-58,Fern & Finch Midi Dress,Fashion,Women's Apparel,Fern & Finch,133.77,39.2,2619,True,2025-03-20 13:29:20
+PRD_00000010,FWA-00010-33,Fern & Finch Straight Leg Jeans,Fashion,Women's Apparel,Fern & Finch,122.57,41.63,2325,True,2025-08-25 11:40:09
+PRD_00000011,EH-00011-59,SoundMint Over-Ear Headphones Pro,Electronics,Headphones,SoundMint,212.65,98.14,1631,True,2022-05-01 06:50:45
+PRD_00000012,TLT-00012-31,BrightSprout Science Experiment Kit,Toys,Learning Toys,BrightSprout,38.22,15.08,1294,True,2022-05-04 01:13:06
+PRD_00000013,TLT-00013-69,PlayQuarry Science Experiment Kit Plus,Toys,Learning Toys,PlayQuarry,13.49,3.39,2385,True,2025-02-19 02:55:52
+PRD_00000014,BM-00014-52,Gloss Yard Matte Lipstick,Beauty,Makeup,Gloss Yard,39.06,13.39,1789,True,2025-04-30 18:36:37
+PRD_00000015,F&DC&T-00015-19,LeafLine Green Tea 100 bags Plus,Food & Drink,Coffee & Tea,LeafLine,23.38,12.15,2681,True,2025-11-13 05:10:55
+PRD_00000016,BM-00016-40,Velvet Hue Matte Lipstick,Beauty,Makeup,Velvet Hue,21.77,5.78,2533,True,2025-11-15 03:15:17
+PRD_00000017,F&DS-00017-84,VitaCore Collagen Powder,Food & Drink,Supplements,VitaCore,49.36,23.08,1669,True,2024-06-19 09:24:24
+PRD_00000018,SF-00018-42,IronPath Pull-Up Bar,Sports,Fitness,IronPath,256.82,126.81,1189,True,2022-05-12 10:03:37
+PRD_00000019,HD-00019-87,StoneLeaf Table Lamp,Home,Decor,StoneLeaf,80.85,25.73,2740,True,2024-02-13 15:20:33
+PRD_00000020,SO-00020-47,WildPath Camping Lantern,Sports,Outdoor,WildPath,169.49,79.38,2865,True,2025-05-12 22:56:15
+PRD_00000021,HK-00021-98,CopperNest Air Fryer,Home,Kitchen,CopperNest,126.64,44.87,2526,True,2023-05-18 08:23:56
+PRD_00000022,SO-00022-71,NordTrek Hiking Backpack,Sports,Outdoor,NordTrek,304.93,145.04,1995,False,2022-10-16 19:59:41
+PRD_00000023,SO-00023-64,NordTrek Camping Lantern,Sports,Outdoor,NordTrek,218.4,115.1,2277,False,2023-11-14 19:03:22
+PRD_00000024,SF-00024-96,TrailRoot Yoga Mat XL,Sports,Fitness,TrailRoot,46.63,20.97,2823,True,2024-06-18 09:53:43
+PRD_00000025,FF-00025-82,StrideCo Ankle Boots,Fashion,Footwear,StrideCo,113.9,57.32,1630,True,2025-01-13 10:43:35

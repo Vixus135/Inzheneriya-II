@@ -1,0 +1,26 @@
+session_id,customer_id,session_start,session_end,device_type,traffic_source,landing_page,page_views,bounce,converted,duration_seconds
+SES_00000001,CUS_00047627,2025-08-05 22:20:22,2025-08-05 22:22:08,mobile,organic_search,/category/electronics,18,False,False,106
+SES_00000002,CUS_00138310,2025-05-11 17:27:30,2025-05-11 17:27:39,mobile,organic_search,/wishlist,1,True,False,9
+SES_00000003,CUS_00286507,2025-07-02 11:04:18,2025-07-02 11:10:20,mobile,email,/category/food-drink,7,False,False,362
+SES_00000004,CUS_00151035,2025-04-21 06:39:18,2025-04-21 06:40:18,desktop,paid_search,/category/electronics,1,True,False,60
+SES_00000005,CUS_00008549,2022-07-20 10:14:40,2022-07-20 10:15:41,mobile,organic_search,/category/home,1,True,False,61
+SES_00000006,CUS_00205320,2023-08-10 09:52:30,2023-08-10 10:01:49,mobile,direct,/category/pet-supplies,21,False,True,559
+SES_00000007,CUS_00000496,2025-07-19 15:57:47,2025-07-19 15:59:33,desktop,direct,/category/beauty,21,False,False,106
+SES_00000008,CUS_00136174,2023-11-17 01:47:47,2023-11-17 02:01:23,mobile,organic_search,/category/beauty,15,False,False,816
+SES_00000009,CUS_00382360,2024-04-16 21:29:42,2024-04-16 21:38:09,desktop,organic_search,/category/toys,7,False,False,507
+SES_00000010,CUS_00076926,2024-12-18 07:34:21,2024-12-18 07:37:13,mobile,direct,/,12,False,False,172
+SES_00000011,CUS_00362969,2025-01-09 14:29:29,2025-01-09 14:30:15,desktop,social,/category/fashion,4,False,False,46
+SES_00000012,CUS_00148138,2025-10-30 07:56:12,2025-10-30 08:05:29,desktop,organic_search,/account/orders,22,False,False,557
+SES_00000013,CUS_00400861,2025-07-07 17:12:00,2025-07-07 17:12:08,mobile,referral,/category/books,1,True,False,8
+SES_00000014,CUS_00375623,2025-10-05 02:00:33,2025-10-05 02:03:38,mobile,direct,/new-arrivals,10,False,False,185
+SES_00000015,CUS_00163663,2025-04-18 07:28:35,2025-04-18 07:38:40,mobile,direct,/category/food-drink,9,False,False,605
+SES_00000016,CUS_00445374,2025-08-04 04:14:47,2025-08-04 04:15:44,mobile,social,/category/home,1,True,False,57
+SES_00000017,CUS_00267596,2025-12-08 06:58:46,2025-12-08 07:12:18,mobile,organic_search,/category/electronics,22,False,False,812
+SES_00000018,CUS_00126602,2024-08-24 11:40:46,2024-08-24 11:42:10,mobile,direct,/category/fashion,13,False,False,84
+SES_00000019,CUS_00094883,2025-01-25 18:35:10,2025-01-25 18:42:13,mobile,organic_search,/category/books,13,False,True,423
+SES_00000020,CUS_00224995,2024-10-11 09:31:47,2024-10-11 09:34:21,mobile,email,/sale,3,False,False,154
+SES_00000021,CUS_00187763,2025-11-10 04:29:05,2025-11-10 04:31:20,tablet,paid_search,/category/sports,18,False,False,135
+SES_00000022,CUS_00121739,2025-02-03 15:55:41,2025-02-03 15:59:46,mobile,social,/category/home,6,False,False,245
+SES_00000023,CUS_00002359,2025-03-19 12:03:04,2025-03-19 12:05:04,desktop,paid_search,/category/beauty,4,False,False,120
+SES_00000024,CUS_00085931,2025-12-24 04:12:00,2025-12-24 04:14:29,tablet,social,/category/sports,6,False,False,149
+SES_00000025,CUS_00103453,2023-07-28 01:04:14,2023-07-28 01:09:46,tablet,direct,/,7,False,False,332

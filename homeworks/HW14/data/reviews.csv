@@ -1,0 +1,26 @@
+review_id,order_id,customer_id,product_id,rating,title,body,review_date,verified_purchase,helpful_votes,reported
+RVW_00000001,ORD_01973076,CUS_00168615,PRD_00003996,5,Superb,Fantastic. Does exactly what it says on the tin. No complaints at all.,2024-12-21 07:35:46,True,0,False
+RVW_00000002,ORD_01237862,CUS_00489656,PRD_00000339,5,Best purchase this year,Solid build quality and feels premium. The price point is very fair.,2025-02-25 08:46:56,True,0,False
+RVW_00000003,ORD_01491070,CUS_00013968,PRD_00001418,5,Exactly what I needed,"Great product, works as described. Very happy with this purchase.",2024-02-13 03:40:44,True,0,False
+RVW_00000004,ORD_01369632,CUS_00220010,PRD_00002039,4,Exceeded my expectations,Great value. I was a bit sceptical at first but very glad I went ahead.,2024-06-12 01:40:11,True,0,False
+RVW_00000005,ORD_01955340,CUS_00426136,PRD_00003149,3,Could be better,Functions as described. Not the most durable but usable.,2025-09-21 01:51:38,True,0,False
+RVW_00000006,ORD_01686255,CUS_00237731,PRD_00001790,4,Best purchase this year,This is exactly what I was looking for. Already recommended it to a few friends.,2025-08-18 14:34:33,True,1,False
+RVW_00000007,ORD_01713386,CUS_00148984,PRD_00004852,5,Love it,Impressed by the attention to detail. This is clearly a well-made item.,2024-11-30 13:05:57,True,0,False
+RVW_00000008,ORD_00638596,CUS_00489038,PRD_00002624,4,Would buy again,Solid build quality and feels premium. The price point is very fair.,2024-12-07 02:06:46,True,2,False
+RVW_00000009,ORD_01875785,CUS_00094411,PRD_00003506,5,Very happy with this purchase,Great value. I was a bit sceptical at first but very glad I went ahead.,2024-01-19 05:37:03,True,5,False
+RVW_00000010,ORD_01029085,CUS_00359633,PRD_00002399,5,Outstanding quality,Solid build quality and feels premium. The price point is very fair.,2024-04-03 20:12:49,True,0,False
+RVW_00000011,ORD_01747749,CUS_00483543,PRD_00005912,3,Decent but not perfect,Decent enough for the money. A few minor issues but nothing major.,2024-10-24 08:10:17,True,0,False
+RVW_00000012,ORD_00953632,CUS_00271611,PRD_00002838,5,Highly recommend,Really pleased with the quality. Delivery was fast and the packaging was excellent.,2025-01-18 12:15:21,True,5,False
+RVW_00000013,ORD_00915968,CUS_00313590,PRD_00007857,4,Highly recommend,Fantastic. Does exactly what it says on the tin. No complaints at all.,2024-06-28 02:30:28,True,3,False
+RVW_00000014,ORD_00204717,CUS_00113623,PRD_00006970,5,Exceeded my expectations,I've bought from this seller before and they never disappoint.,2024-10-21 20:26:05,True,1,False
+RVW_00000015,ORD_01492999,CUS_00485371,PRD_00004916,4,Superb,I've bought from this seller before and they never disappoint.,2024-12-31 04:54:59,True,0,False
+RVW_00000016,ORD_00551876,CUS_00309603,PRD_00005862,4,Works perfectly,"Great product, works as described. Very happy with this purchase.",2025-08-22 22:50:14,True,1,False
+RVW_00000017,ORD_01052729,CUS_00065169,PRD_00002899,5,Works perfectly,Fantastic. Does exactly what it says on the tin. No complaints at all.,2024-09-20 06:17:07,True,1,False
+RVW_00000018,ORD_00284404,CUS_00455146,PRD_00000533,4,Outstanding quality,Solid build quality and feels premium. The price point is very fair.,2024-11-14 18:04:44,True,2,False
+RVW_00000019,ORD_01195380,CUS_00111650,PRD_00007178,4,Exceeded my expectations,Perfect size and quality. Looks even better in person than in the photos.,2024-11-22 03:04:52,True,0,False
+RVW_00000020,ORD_00793811,CUS_00050076,PRD_00000662,5,Love it,I've bought from this seller before and they never disappoint.,2025-02-11 01:49:14,True,20,False
+RVW_00000021,ORD_00715906,CUS_00378150,PRD_00009050,4,Very happy with this purchase,Fantastic. Does exactly what it says on the tin. No complaints at all.,2025-02-27 02:12:23,True,0,False
+RVW_00000022,ORD_01920817,CUS_00462089,PRD_00007188,5,Great quality for the price,Perfect size and quality. Looks even better in person than in the photos.,2024-02-03 14:25:51,True,0,False
+RVW_00000023,ORD_01729162,CUS_00153537,PRD_00002260,4,Exactly what I needed,Perfect size and quality. Looks even better in person than in the photos.,2025-03-24 04:16:33,True,12,False
+RVW_00000024,ORD_01451133,CUS_00164646,PRD_00000767,4,Absolutely delighted,I've bought from this seller before and they never disappoint.,2025-07-10 06:12:20,True,0,False
+RVW_00000025,ORD_00639474,CUS_00073001,PRD_00006485,2,Poor quality,Broke on first use. Complete waste of money.,2025-11-04 12:42:42,True,0,False

@@ -1,0 +1,46 @@
+{
+  "dataset_01": {
+    "KMeans": {
+      "k": 5,
+      "silhouette": 0.41,
+      "davies_bouldin": 0.88,
+      "calinski_harabasz": 312.5
+    },
+    "DBSCAN": {
+      "eps": 0.3,
+      "min_samples": 5,
+      "silhouette": 0.29,
+      "davies_bouldin": 1.12,
+      "calinski_harabasz": 210.4,
+      "noise_ratio": 0.17
+    }
+  },
+  "dataset_03": {
+    "KMeans": {
+      "k": 4,
+      "silhouette": 0.52,
+      "davies_bouldin": 0.73,
+      "calinski_harabasz": 420.1
+    },
+    "DBSCAN": {
+      "eps": 0.2,
+      "min_samples": 5,
+      "silhouette": 0.31,
+      "davies_bouldin": 1.05,
+      "calinski_harabasz": 260.7,
+      "noise_ratio": 0.12
+    }
+  },
+  "dataset_04": {
+    "KMeans": {
+      "k": 6,
+      "silhouette": 0.38,
+      "davies_bouldin": 0.95,
+      "calinski_harabasz": 280.3
+    },
+    "DBSCAN": {
+      "valid": false,
+      "reason": "all points noise or single cluster"
+    }
+  }
+}

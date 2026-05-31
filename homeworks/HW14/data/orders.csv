@@ -1,0 +1,26 @@
+order_id,customer_id,order_date,order_status,payment_status,payment_method,currency,subtotal,discount_amount,tax_amount,shipping_amount,total_amount,shipping_country,shipping_city,shipping_postcode,device_type,traffic_source
+ORD_00000001,CUS_00051618,2024-11-08 09:02:12,delivered,paid,apple_pay,AUD,594.97,0.0,59.5,0.85,655.32,Australia,PERTH,6151,desktop,paid_search
+ORD_00000002,CUS_00248394,2025-03-02 05:56:47,cancelled,pending,card,GBP,0.0,0.0,0.0,0.0,0.0,United Kingdom,Glasgow,G1 1AT,desktop,direct
+ORD_00000003,CUS_00311564,2023-12-25 03:30:16,delivered,paid,card,USD,222.07,23.03,15.92,0.0,214.96,United States,Los Angeles,90001,desktop,email
+ORD_00000004,CUS_00363483,2025-08-03 18:22:39,returned,paid,card,CAD,776.83,30.32,97.05,0.85,844.41,Canada,Vancouver,V6B 1A1,mobile,organic_search
+ORD_00000005,CUS_00056504,2025-10-08 11:24:03,delivered,paid,paypal,EUR,566.08,85.01,101.02,0.85,582.94,Netherlands,Utrecht,3511 AA,desktop,display_ads
+ORD_00000006,CUS_00415964,2024-02-04 15:52:43,processing,paid,card,AUD,403.51,0.0,40.35,0.0,443.86,Australia,Adelaide,5067,desktop,direct
+ORD_00000007,CUS_00461111,2025-04-23 04:56:03,delivered,paid,card,GBP,318.31,0.0,63.66,0.0,381.97,United Kingdom,London,EC1A 1BB,desktop,paid_search
+ORD_00000008,CUS_00330916,2025-05-15 13:46:00,cancelled,failed,card,USD,0.0,0.0,0.0,0.0,0.0,United States,Chicago,60614,mobile,direct
+ORD_00000009,CUS_00236416,2025-06-16 04:39:55,cancelled,failed,buy_now_pay_later,EUR,0.0,0.0,0.0,0.0,0.0,Netherlands,Rotterdam,3011 AA,mobile,direct
+ORD_00000010,CUS_00197825,2025-09-12 10:40:05,delivered,paid,card,EUR,279.93,0.0,55.99,0.0,335.92,France,Nice,06000,tablet,affiliate
+ORD_00000011,CUS_00151398,2024-12-04 22:34:02,delivered,paid,paypal,AUD,126.07,0.0,12.61,0.85,139.53,Australia,Perth,6018,mobile,direct
+ORD_00000012,CUS_00218859,2025-04-26 15:15:38,delivered,refunded,google_pay,GBP,653.27,0.0,130.65,0.0,783.92,United Kingdom,Manchester,M4 1DZ,mobile,paid_search
+ORD_00000013,CUS_00427507,2024-10-03 08:04:36,cancelled,failed,card,USD,0.0,0.0,0.0,0.0,0.0,United States,Seattle,98122,mobile,social
+ORD_00000014,CUS_00448429,2024-08-12 01:15:07,delivered,paid,paypal,EUR,939.68,0.0,197.33,1.7,1138.71,Netherlands,The Hague,2511 AA,desktop,direct
+ORD_00000015,CUS_00158176,2024-02-22 05:30:11,delivered,paid,card,EUR,604.19,0.0,114.8,0.0,718.99,Germany,Hamburg,N/A,desktop,affiliate
+ORD_00000016,CUS_00366009,2025-11-29 11:19:45,delivered,paid,card,GBP,402.04,46.13,71.18,0.0,427.09,United Kingdom,Liverpool,L3 4BB,mobile,referral
+ORD_00000017,CUS_00267381,2025-12-10 01:44:00,processing,paid,card,EUR,3892.01,358.03,671.46,4.25,4209.69,Germany,Hamburg,20354,mobile,organic_search
+ORD_00000018,CUS_00023018,2025-11-01 17:48:36,delivered,paid,paypal,GBP,231.17,0.0,46.23,0.0,277.4,United Kingdom,Leeds,LS2 7UA,mobile,display_ads
+ORD_00000019,CUS_00246804,2025-10-08 16:47:39,cancelled,failed,buy_now_pay_later,USD,0.0,0.0,0.0,0.0,0.0,United States,Seattle,98101,mobile,organic_search
+ORD_00000020,CUS_00269235,2024-11-01 14:07:05,shipped,paid,paypal,GBP,429.31,0.0,85.86,0.0,515.17,United Kingdom,Leeds,LS2 7UA,mobile,organic_search
+ORD_00000021,CUS_00161731,2025-08-01 11:47:51,delivered,refunded,card,GBP,20.75,0.0,4.15,4.99,29.89,United Kingdom,Edinburgh,EH2 2AD,mobile,direct
+ORD_00000022,CUS_00014583,2023-04-27 13:49:19,delivered,paid,card,EUR,62.71,0.0,11.91,5.49,80.11,Germany,Berlin,10115,desktop,organic_search
+ORD_00000023,CUS_00026016,2023-11-27 12:03:29,delivered,paid,card,USD,64.0,0.0,5.12,7.99,77.11,United States,Seattle,98101,mobile,direct
+ORD_00000024,CUS_00213839,2025-06-20 20:55:48,processing,paid,paypal,GBP,1165.14,0.0,233.03,1.7,1399.87,United Kingdom,Leeds,LS2 7UA,tablet,paid_search
+ORD_00000025,CUS_00008675,2024-07-26 08:27:50,shipped,paid,apple_pay,CAD,18.69,0.0,2.43,7.49,28.61,Canada,Vancouver,V6B 1A1,desktop,email
